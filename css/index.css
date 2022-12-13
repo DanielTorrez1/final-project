@@ -1,5 +1,5 @@
 body{
-    background-image: url(/img/draw.jpg);
+    background-image: url(../img/draw.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     margin:0;
@@ -35,20 +35,20 @@ aside:hover{
 }
 
 .one{
-    background-image: url(/img/eye.jpg);
+    background-image: url(../img/eye.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position-y:25%;
 }
 
 .two{
-    background-image: url(/img/bp.jpg);
+    background-image: url(../img/bp.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position-y:25%;
 }
  .three{
-    background-image: url(/img/three.jpg);
+    background-image: url(../img/three.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position-y:17%;
