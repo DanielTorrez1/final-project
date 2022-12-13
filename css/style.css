@@ -7,7 +7,7 @@ Body{
 margin:0;
 }
 header{
-    background-image:url(/img/ocean.jpeg);
+    background-image:url(../img/ocean.jpeg);
     background-repeat:no-repeat;
     background-size:100%;
     background-position-y:50%;
@@ -58,7 +58,7 @@ a:active{
     font-size: x-large;
 }
 .logo{
-    background-image: url(/img/handcon.jpg);
+    background-image: url(../img/handcon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 80px;
