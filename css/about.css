@@ -1,5 +1,5 @@
 body{
-    background-image:url(/img/skele.jpg);
+    background-image:url(../img/skele.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: 40%;
@@ -11,7 +11,7 @@ body{
     margin-left:11%;
 }
 .hero{
-    background-image:url(/img/hero.jpg) ;
+    background-image:url(../img/hero.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: 78%;
