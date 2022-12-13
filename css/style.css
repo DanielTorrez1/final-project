@@ -63,9 +63,13 @@ a:active{
     background-repeat: no-repeat;
     height: 80px;
     width: 90px;
+    margin-top:;
     margin-left: 1%;
     border: solid white;
     border-radius: 20%
+}
+.logo:hover{
+    color:#B9E0EB;
 }
 
 footer {

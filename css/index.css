@@ -17,7 +17,6 @@ article {
     border: dotted #06A3B4;
     border-width: 10px;
     border-radius: 10%;
-
 }
 aside { 
     background-color:rgb(66, 153, 168);
@@ -60,4 +59,7 @@ aside:hover{
     background-color:#045267;
     width: 100%;
     height: 120px;
+}
+.atext{
+    padding-top:6%;
 }
